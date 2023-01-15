@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> good bye, do not learn devops </h1>
+   <h1> Good bye, do not learn devops </h1>
 
   
 </form>
